@@ -1,0 +1,26 @@
+{
+  "name": "peertube-plugin-auth-soapbox",
+  "version": "0.0.1",
+  "description": "A PeerTube server plugin that adds support for external authentication via OAuth from Soapbox",
+  "engine": {
+    "peertube": ">=6.0.3"
+  },
+  "keywords": [
+    "peertube",
+    "plugin",
+    "auth",
+    "oauth2",
+    "soapbox",
+    "pleroma"
+  ],
+  "homepage": "https://github.com/gigaohm/peertube-plugin-auth-soapbox",
+  "author": "lantrix",
+  "bugs": "https://github.com/gigaohm/peertube-plugin-auth-soapbox/issues",
+  "library": "./main.js",
+  "staticDirs": {},
+  "css": [],
+  "clientScripts": [],
+  "translations": {
+    "fr-FR": "./languages/fr.json"
+  }
+}
