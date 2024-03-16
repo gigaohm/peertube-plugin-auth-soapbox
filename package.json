@@ -22,5 +22,6 @@
   "clientScripts": [],
   "translations": {
     "fr-FR": "./languages/fr.json"
-  }
+  },
+  "license": "BSD-3-Clause"
 }
