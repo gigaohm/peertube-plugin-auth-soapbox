@@ -16,12 +16,16 @@
   "homepage": "https://github.com/gigaohm/peertube-plugin-auth-soapbox",
   "author": "lantrix",
   "bugs": "https://github.com/gigaohm/peertube-plugin-auth-soapbox/issues",
-  "library": "./main.js",
+  "library": "./plugin.js",
   "staticDirs": {},
   "css": [],
   "clientScripts": [],
   "translations": {
     "fr-FR": "./languages/fr.json"
   },
-  "license": "BSD-3-Clause"
+  "license": "BSD-3-Clause",
+  "scripts": {},
+  "devDependencies": {
+    "@peertube/peertube-types": "^6.0.3"
+  }
 }
