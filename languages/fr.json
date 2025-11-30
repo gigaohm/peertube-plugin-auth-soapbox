@@ -1,0 +1,12 @@
+{
+  "Login with SoapBox": "Se connecter avec SoapBox",
+  "SoapBox Instance URL": "URL de l'instance SoapBox",
+  "The URL of your SoapBox instance (e.g., https://soapbox.example.com)": "L'URL de votre instance SoapBox (ex: https://soapbox.example.com)",
+  "OAuth Client ID": "ID client OAuth",
+  "The OAuth client ID from your SoapBox instance": "L'ID client OAuth de votre instance SoapBox",
+  "OAuth Client Secret": "Secret client OAuth",
+  "The OAuth client secret from your SoapBox instance": "Le secret client OAuth de votre instance SoapBox",
+  "OAuth Scope": "Portée OAuth",
+  "OAuth scope for authentication (default: read:accounts write:accounts)": "Portée OAuth pour l'authentification (par défaut: read:accounts write:accounts)"
+}
+
